@@ -3,4 +3,4 @@ matplotlib
 numpy
 opencv-python
 
--e .
+#-e .
