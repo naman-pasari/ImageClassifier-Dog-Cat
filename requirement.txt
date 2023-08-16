@@ -2,5 +2,6 @@ tensorflow
 matplotlib
 numpy
 opencv-python
+gradio
 
 #-e .
