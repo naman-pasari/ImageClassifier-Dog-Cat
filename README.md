@@ -27,6 +27,12 @@ For a standalone local deployment, you can run the Gradio interface to predict w
    pip install -r requirements.txt
    python src\components\deployment.py
 
+2. Result of model with gradio:
+
+![Predicting Cat](cat.png)
+![Predicting Dog](dog.png)
+
+
 
 ### Usage
 Notebook: Follow the step-by-step instructions in the notebook directory to learn how to build and train the classifier.
