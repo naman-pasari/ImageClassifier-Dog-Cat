@@ -1,4 +1,4 @@
-# Image Classifier: Cat vs. Dog
+# Image Classifier: [Cat | Dog]
 
 An Image Classifier that predicts whether an input image contains a cat or a dog. This repository provides multiple approaches to the project, including a Jupyter Notebook approach, a modular approach, and a standalone local deployment method.
 
